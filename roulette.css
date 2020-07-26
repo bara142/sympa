@@ -1,0 +1,65 @@
+#entente{
+    height: 468px; 
+    
+    background-color: green;
+}
+label{
+    margin-top:10px;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#droite{
+    float: right;
+}
+#gauche{
+    float: left;
+}
+input[type="button"]{
+    width: 100px;
+    margin-left: 5px;
+    box-shadow: 1px 2px #D83F3D;
+    cursor: pointer;
+    background-color: white;
+}
+#go{
+    margin-top: 15px;
+}
+input[type="number"]{
+    width: 200px;
+}
+input,textarea,select{
+    padding: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 10px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+form{
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    background-color: whitesmoke;
+    border: solid 5px darkgreen;
+    border-radius: 10px;
+    padding: 5px;
+    }
+#titre{
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;    
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+    font-family: fantasy;
+    color: darkgoldenrod;
+}
+p{
+    font-size: larger;
+}
